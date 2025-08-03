@@ -1,2 +1,10 @@
-# Internet-Status-Checker
-The Internet Status Checker is a web - based utility tool that allows users to quickly determine the connection status of their device, their public IP address and a measure of their connection's signal quality or speed (such as Wi-Fi signal strength or network latency).
+# Internet Status Checker
+
+## 📍Features :
+- **Connection Status** - Indicates whether your device is currently connected to the internet, and may specify if the connection is stable or intermittent.
+- **IP Address** - Shows your device's current public IP address, which helps identify your online presence and can assist in troubleshooting network issues.
+- **Network Strength** - Displays a measure of your connection's signal quality or speed (such as Wi-Fi signal strength or network latency), allowing users to identify weak spots or performance issues in their network.
+
+## 📍Project Screenshots :
+<img width="850" height="428" alt="Screenshot 2025-08-03 220124" src="https://github.com/user-attachments/assets/43b60353-65da-4fc7-b2f9-2e526a706c27" />
+<img width="850" height="428" alt="Screenshot 2025-08-03 220142" src="https://github.com/user-attachments/assets/ed6ab772-cfdf-4149-a994-424b52aa2333" />
